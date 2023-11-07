@@ -1,4 +1,4 @@
-package com.flashpay;
+package com.flashpayng;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

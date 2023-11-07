@@ -1,4 +1,4 @@
-package com.flashpay;
+package com.flashpayng;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
